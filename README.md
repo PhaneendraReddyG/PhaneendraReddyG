@@ -48,8 +48,9 @@ Cloud automation, reliable and scalable infrastructure, security best practices,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhaneendraReddyG&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhaneendraReddyG" alt="GitHub streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhaneendraReddyG&show_icons=true&locale=en&layout=compact" alt="PhaneendraReddyG" />
+
+</p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PhaneendraReddyG" alt="GitHub streak" /></p>
 
 <p align="center">
   Let's build cloud-native infrastructure together! ☁️🛠️
